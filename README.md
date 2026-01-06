@@ -28,3 +28,6 @@ Ce mini-projet a été réalisé en binôme par :
 
 - Rajae Arab  
 - Chahd Lachheb
+
+### Contribution Rajae
+- Amélioration de la structure et du design du projet.
