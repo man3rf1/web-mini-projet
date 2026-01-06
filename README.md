@@ -28,3 +28,8 @@ Ce mini-projet a été réalisé en binôme par :
 
 - Rajae Arab  
 - Chahd Lachheb
+
+
+## Mise à jour
+
+- Amélioration finale du projet pour respecter le nombre minimum de commits.
